@@ -13,7 +13,6 @@ body{
   align-items: center;
   background: #000;
   justify-content: center;
-  /* width: 100vh ; */
 }
 ::selection{
   color: #fff;
